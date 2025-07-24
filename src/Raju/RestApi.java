@@ -30,5 +30,12 @@ public class RestApi
 		
 		
 	}
-	
+	public void raju()
+	{
+		System.out.println(" iam a btech cse student");
+		System.out.println(" iam a btech cse student");
+		System.out.println(" iam a btech cse student");
+		System.out.println(" iam a btech cse student");
+
+	}
 }
