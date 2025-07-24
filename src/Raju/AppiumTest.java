@@ -1,8 +1,10 @@
 package Raju;
 
+import org.testng.annotations.Test;
+
 public class AppiumTest 
 {
-	
+	@Test
 	public void NativeAppAndroid()
 	{
 		
@@ -11,6 +13,7 @@ public class AppiumTest
 
 		
 	}
+	@Test
 	public void iphone()
 	{
 		
