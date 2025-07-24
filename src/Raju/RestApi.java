@@ -38,4 +38,10 @@ public class RestApi
 		System.out.println(" iam a btech cse student");
 
 	}
+	public void elementui()
+	{
+		
+		
+		System.out.println("elementUI");
+	}
 }
