@@ -12,6 +12,11 @@ public class RestApi
 		System.out.println("postJira1");
 		System.out.println("postJira2");
 
+		
+		
+		System.out.println("postJira3");
+		System.out.println("postJira4");
+		System.out.println("postJira5");
 
 	}
 	
@@ -19,6 +24,11 @@ public class RestApi
 	public void deleteTwitter()
 	{
 		System.out.println("deleteTiwtter");
+		System.out.println("deleteTiwtter1");
+		System.out.println("deleteTiwtter2");
+		
+		
+		
 	}
 	
 }
